@@ -3,7 +3,7 @@
 ### How to use
 
 ```
-* npm start
-* npm run dev
+npm start
+npm run dev
 
 ```
